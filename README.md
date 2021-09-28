@@ -42,5 +42,4 @@ run npm install
   
 
 # Depolyed App:
-
-  
+ https://jun-react-portfolio.herokuapp.com/#/
