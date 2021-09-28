@@ -6,7 +6,7 @@ function Navbar() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light">
             <Link className="navbar-brand glow" to="/" id="name">
-               React Portfolio
+               React Portfolio  
             </Link>
             <button style = {{backgroundColor: 'white'}} className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
