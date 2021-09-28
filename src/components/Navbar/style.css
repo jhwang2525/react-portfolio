@@ -1,0 +1,45 @@
+
+.navbar:hover {
+    color: black;
+}
+
+#navbarText:hover {
+    color: black;
+}
+#navbarText {
+    margin: 20px;
+    font-family: sans-serif;
+    /* font-family: 'Patrick Hand', cursive; */
+}
+
+.navbar {
+    background: transparent;
+}
+
+#name {
+    color: white;
+    /* font-family: 'Patrick Hand', cursive; */
+    font-family: sans-serif;
+    font-size: 40px;
+}
+
+#name:hover {
+    color: grey;
+}
+
+.nav-link {
+    font-size: 30px;
+}
+
+.text-color {
+    color: white;
+}
+
+.glow:hover {
+    color: lightgrey;
+    text-shadow: 0px 3px 5px rgba(169,98,235,1);
+}
+
+.active {
+    color: black;
+}

@@ -1,0 +1,34 @@
+.home-container {
+    padding: 30px;
+}
+
+#image {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#home {
+    text-align: center;
+    color: white;
+}
+
+.social-image {
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+
+#role {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+
+#social {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+
